@@ -1,5 +1,7 @@
 # Republican roads
 
+![Blue milestone](../../../img/blue_milestone.png "Blue milestone")
+
 | **ref** | **Name**                                                     |                                                              **osm ref id**                                                              |
 |:-------:|--------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|
 |   R1    | Chișinău-Ungheni-frontiera cu România                        | ![OSM Relation](../../../img/20px-Osm_element_relation.svg.png 'OSM Relation') [7928413](https://www.openstreetmap.org/relation/7928413) |

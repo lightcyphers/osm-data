@@ -4,15 +4,15 @@ This page contains informations about public roads in Moldova
 
 ## Main Roads
 
-![OSM Relation](../../../img/red_milestone.png "red milestone")
+![Red milestone](../../../img/red_milestone.png "Red milestone")
 
 * [List of Express Roads](express_roads.md) (Reference: M, red milestone)
 ---
-![OSM Relation](../../../img/blue_milestone.png "red milestone")
+![Blue milestone](../../../img/blue_milestone.png "Blue milestone")
 
 * [List of Republican Roads](republican_roads.md) (Reference: R, blue milestone)
 ---
-![OSM Relation](../../../img/yellow_milestone.png "red milestone")
+![Yellow milestone](../../../img/yellow_milestone.png "Yellow milestone")
 
 * [List of Regional Roads](regional_roads.md) (Reference: G, yellow milestone
 ---

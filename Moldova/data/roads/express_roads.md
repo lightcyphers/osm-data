@@ -1,5 +1,7 @@
 # Express roads
 
+![Red milestone](../../../img/red_milestone.png "Red milestone")
+
 | **ref** | **Name**                                                                |                                                              **osm ref id**                                                              | **Notes**   |
 |:-------:|-------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|-------------|
 |   M1    | Frontiera cu România-Leușeni-Chișinău-Dubăsari-frontiera cu Ucraina     | ![OSM Relation](../../../img/20px-Osm_element_relation.svg.png "OSM Relation") [7918476](https://www.openstreetmap.org/relation/7918476) | E58 E580    |

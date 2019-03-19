@@ -1,5 +1,7 @@
 # Regional roads (G)
 
+![Yellow milestone](../../../img/yellow_milestone.png "Yellow milestone")
+
 | **ref** | **Name**                                                     |                                                              **osm ref id**                                                              |
 |:-------:|--------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------:|
 |   G1    | R11-Briceni-Cotiujeni-Larga-frontiera cu Ucraina             | ![OSM Relation](../../../img/20px-Osm_element_relation.svg.png 'OSM Relation') [8422157](https://www.openstreetmap.org/relation/8422157) |
