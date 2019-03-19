@@ -6,7 +6,7 @@ This page contains informations about public roads in Moldova
 
 * [List of Express Roads](express_roads.md) (Reference: M, red milestone)
 * [List of Republican Roads](republican_roads.md) (Reference: R, blue milestone)
-* [List of Regional Roads](reginonal_roads.md) (Reference: G, yellow milestone
+* [List of Regional Roads](regional_roads.md) (Reference: G, yellow milestone
 
 ## Local Roads
 
